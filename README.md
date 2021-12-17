@@ -16,3 +16,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beorge-web&show_icons=true&locale=en" alt="beorge-web" /></p>
 
+
+<h3 align="left">Контакты:</h3>
+Почта: beorgerer64@gmail.com
+Telegram: @beorge
